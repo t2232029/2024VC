@@ -8,7 +8,7 @@ body h1 {
     font-size: x-large;
 }
 body {
-    background-image: url(../../%E7%94%BB%E5%83%8F/%E3%82%AB%E3%83%A1%E3%83%A9%20%E3%83%AD%E3%83%BC%E3%83%AB/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3.jpg);
+    background-image: url(%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3.jpg);
     background-clip: border-box;
     background-attachment: scroll;
     background-size: cover;
