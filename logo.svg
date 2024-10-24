@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta CHARSET="utf-8">
+<title>cake.html</title>
+<style TYPE="text/css">
+img  {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+</style>
+</head>
+
+<body>
+<p><img SRC="../../../../Downloads/lesson3配布 (1)/lesson3驟榊ｸ・cake/images/shop.jpg" WIDTH="500" HEIGHT="302" ALT=""/><img SRC="../../../../Downloads/lesson3配布 (1)/lesson3驟榊ｸ・cake/images/cake01.jpg" WIDTH="200" HEIGHT="100" ALT=""/></p>
+</body>
+</html>
